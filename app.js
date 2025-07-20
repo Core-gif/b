@@ -1,0 +1,1 @@
+console.log("B6’S Shop loaded. Key checker, anime preview and UI ready.");
